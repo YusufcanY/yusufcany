@@ -3,8 +3,8 @@
 ## What i know:
   - HTML
   - CSS
-  - SCSS
-  - Tailwindcss
+    - SCSS
+    - Tailwindcss
   - ES6
   - Vue.js
     - Vuex
