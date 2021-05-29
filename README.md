@@ -10,6 +10,7 @@
     - Vuex
     - Vue Router
     - Nuxt.js
+    - Jest
   - React.js (Beginner)
     - React Native (Beginner)
   - npm and yarn
