@@ -19,4 +19,5 @@
 ## Experienced about:
   - Figma or any UI project to code and edit UI projects.
   - Rest API
+
 You can check my resume on [**Linkedin**](https://www.linkedin.com/in/yusufcan-yilmaz/)
