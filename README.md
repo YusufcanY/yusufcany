@@ -16,5 +16,7 @@
   - npm and yarn
   - CLI git and gui git providers (Github and Gitlab)
   
-I experienced about **Figma or any ui file to code** and edit ui files in **XD** or **Figma**.
+## Experienced about:
+  - Figma or any UI project to code and edit UI projects.
+  - Rest API
 You can check my resume on [**Linkedin**](https://www.linkedin.com/in/yusufcan-yilmaz/)
