@@ -5,7 +5,8 @@
   - CSS
     - SCSS
     - Tailwindcss
-  - ES6
+  - Javascript
+    - Axios 
   - Vue.js
     - Vuex
     - Vue Router
