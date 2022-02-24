@@ -12,8 +12,6 @@
     - Vue Router
     - Nuxt.js
     - Jest
-  - React.js (Beginner)
-    - React Native (Beginner)
   - npm and yarn
   - CLI git and gui git providers (Github and Gitlab)
   
