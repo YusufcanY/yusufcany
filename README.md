@@ -20,3 +20,4 @@
   - Restful API
 
 You can check my resume on [**Linkedin**](https://www.linkedin.com/in/yusufcan-yilmaz/)
+[**Linktree**](https://www.linktr.ee/yusufcany/)
