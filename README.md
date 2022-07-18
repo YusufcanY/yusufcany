@@ -9,6 +9,7 @@ Hi, I'm [Yusufcan Yılmaz](https://yusufcanyilmaz.com) and I'm Frontend Develope
     - SCSS
     - Tailwindcss
   - Javascript
+  - Typescript
   - Vue.js
     - Vuex
     - Pinia
