@@ -3,6 +3,10 @@
 # 👋 Hi, I'm Yusufcan Yılmaz
 Hi, I'm [Yusufcan Yılmaz](https://yusufcanyilmaz.com) and I'm Frontend Developer. I'm currently working on Frontend Development and using Vue.js on the client-side and Nuxt.js on the server-side. I've been working on these frameworks for two years. These days, I'm working on some articles, and I'm sharing my Frontend experience, especially with Vue.js. You can easily find my articles on [**Medium**](https://yusufcan-yilmaz.medium.com/). I enjoy gaming and skating; those are two of my favorite pastimes. There is also going to social events and meeting new people. Outside of work, I'm now attempting to improve my English on Cambly.
 
+## Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## I worked with:
   - HTML
   - CSS
