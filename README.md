@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Yusufcan Yılmaz
 Hi, I'm [Yusufcan Yılmaz](https://yusufcanyilmaz.com) and I'm Frontend Developer. I'm currently working on Frontend Development and using Vue.js on the client-side and Nuxt.js on the server-side. I've been working on these frameworks for two years. These days, I'm working on some articles, and I'm sharing my Frontend experience, especially with Vue.js. You can easily find my articles on [**Medium**](https://yusufcan-yilmaz.medium.com/). I enjoy gaming and skating; those are two of my favorite pastimes. There is also going to social events and meeting new people. Outside of work, I'm now attempting to improve my English on Cambly.
 
-## Blog Posts
+## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Get Better at Vue](https://blog.yusufcanyilmaz.com/get-better-at-vue)
 - [Do We Need Vue 3?](https://blog.yusufcanyilmaz.com/do-we-need-vue-3)
@@ -11,7 +11,7 @@ Hi, I'm [Yusufcan Yılmaz](https://yusufcanyilmaz.com) and I'm Frontend Develope
 - [Vue.js 3 Quick Tips and Best Practices](https://blog.yusufcanyilmaz.com/vuejs-3-quick-tips-and-best-practices)
 <!-- BLOG-POST-LIST:END -->
 
-## I worked with:
+## 👨‍💻 Worked with:
   - HTML
   - CSS
     - SCSS
@@ -22,6 +22,7 @@ Hi, I'm [Yusufcan Yılmaz](https://yusufcanyilmaz.com) and I'm Frontend Develope
     - Vuex
     - Pinia
     - Nuxt.js
+  - Ethers.js and Web3.js for blockchain connections
   - Jest
   - Vitest
   - Cypress
@@ -29,7 +30,7 @@ Hi, I'm [Yusufcan Yılmaz](https://yusufcanyilmaz.com) and I'm Frontend Develope
   - npm and yarn
   - CLI git and gui git providers (Github and Gitlab)
   
-## Experienced about:
+## ⚡ Experienced about:
   - Turning Figma or any UI project to code and edit UI projects.
   - Restful API
   - GraphQL
