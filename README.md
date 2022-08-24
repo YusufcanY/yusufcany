@@ -5,6 +5,10 @@ Hi, I'm [Yusufcan Yılmaz](https://yusufcanyilmaz.com) and I'm Frontend Develope
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Get Better at Vue](https://blog.yusufcanyilmaz.com/get-better-at-vue)
+- [Do We Need Vue 3?](https://blog.yusufcanyilmaz.com/do-we-need-vue-3)
+- [Early Nuxt 3 Review](https://blog.yusufcanyilmaz.com/early-nuxt-3-review)
+- [Vue.js 3 Quick Tips and Best Practices](https://blog.yusufcanyilmaz.com/vuejs-3-quick-tips-and-best-practices)
 <!-- BLOG-POST-LIST:END -->
 
 ## I worked with:
