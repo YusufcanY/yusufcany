@@ -10,23 +10,21 @@ Hi, I'm [Yusufcan Yılmaz](https://yusufcanyilmaz.com) and I'm Frontend Develope
 <!-- BLOG-POST-LIST:END -->
 
 ## 👨‍💻 Worked with:
+  - Vue.js
+  - Nuxt.js
+  - Ethers.js and Web3.js for blockchain connections
+  - JavaScript
+  - TypeScript
   - HTML
   - CSS
     - SCSS
-    - Tailwindcss
-  - Javascript
-  - Typescript
-  - Vue.js
-    - Vuex
-    - Pinia
-    - Nuxt.js
-  - Ethers.js and Web3.js for blockchain connections
+    - TailwindCSS
   - Jest
   - Vitest
   - Cypress
   - Storybook
-  - npm and yarn
-  - CLI git and gui git providers (Github and Gitlab)
+  - npm and yarn package managers
+  - Git
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufcany&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   
