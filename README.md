@@ -3,6 +3,7 @@ Hi, I'm [Yusufcan Yılmaz](https://yusufcanyilmaz.com) and I'm Frontend Develope
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Improve Your TailwindCSS Knowledge](https://blog.yusufcanyilmaz.com/improve-your-tailwindcss-knowledge)
 - [Get Better at Vue](https://blog.yusufcanyilmaz.com/get-better-at-vue)
 - [Do We Need Vue 3?](https://blog.yusufcanyilmaz.com/do-we-need-vue-3)
 - [Early Nuxt 3 Review](https://blog.yusufcanyilmaz.com/early-nuxt-3-review)
