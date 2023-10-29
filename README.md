@@ -33,6 +33,3 @@ Hi, I'm [Yusufcan Yılmaz](https://yusufcanyilmaz.com) and I'm Frontend Develope
 
 You can check my resume on [**Linkedin**](https://www.linkedin.com/in/yusufcan-yilmaz/) <br />
 For other socials [**Linktree**](https://www.linktr.ee/yusufcany/)
-```
-npx yusufcany@latest
-```
