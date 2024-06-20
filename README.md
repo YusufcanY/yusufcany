@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Yusufcan Yılmaz
-Hi, I'm [Yusufcan Yılmaz](https://yusufcanyilmaz.com) and I'm Frontend Developer. I'm currently working on Frontend Development and development webapps using React.js and Vue.js. I've been working on these frameworks for almost four years. These days, I'm working on some articles, and I'm sharing my Frontend experience, especially with Vue.js. You can easily find my articles on [**Hashnode**](https://blog.yusufcanyilmaz.com/). I enjoy gaming and skating; those are two of my favorite pastimes. There is also going to social events and meeting new people. Outside of work, I'm now attempting to improve my English on Cambly.
+Hi, I'm [Yusufcan Yılmaz](https://yusufcanyilmaz.com) and I'm Frontend Developer. I'm currently working on Frontend Development and developing webapps using React.js and Vue.js. I've been working on these frameworks for almost four years. These days, I'm working on some articles, and I'm sharing my Frontend experience, especially with Vue.js. You can easily find my articles on [**Hashnode**](https://blog.yusufcanyilmaz.com/). I enjoy gaming and skating; those are two of my favorite pastimes. There is also going to social events and meeting new people. Outside of work, I'm now attempting to improve my English on Cambly.
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
